@@ -4,8 +4,10 @@
 	"description": "A project that helps me learn backend with Node.js",
 	"keywords" : ["node", "backend", "npm","freecodecamp"],
 	"license": "MIT",
+	"version": "0.0.1",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example": "1.1.0",
 	},
 	"main": "server.js",
 	"scripts": {
