@@ -3,6 +3,7 @@
 	"author": "Thet Hmuu",
 	"description": "A project that helps me learn backend with Node.js",
 	"keywords" : ["node", "backend", "npm","freecodecamp"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
