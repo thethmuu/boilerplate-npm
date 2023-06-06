@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Thet Hmuu",
 	"description": "A project that helps me learn backend with Node.js",
-	"keywords" : ["node", "backend", "npm"],
+	"keywords" : ["node", "backend", "npm","freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
